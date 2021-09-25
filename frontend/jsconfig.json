@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "removeComments": true
+    }
+}
